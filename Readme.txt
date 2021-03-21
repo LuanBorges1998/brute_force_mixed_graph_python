@@ -1,0 +1,1 @@
+Iniciar a partir do arquivo main.py.
